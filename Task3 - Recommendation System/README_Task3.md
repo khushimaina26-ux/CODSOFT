@@ -1,3 +1,5 @@
+Smart Flix Recommendation System
+
 Overview:
 Smart Flix Recommendation System is a Python-based application that recommends movies based on the user's favorite genre. The system provides movie suggestions from different categories and helps users discover movies according to their interests.
 
